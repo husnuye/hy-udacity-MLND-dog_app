@@ -1,1 +1,1 @@
-# udacity-MLND-finding_donors
+# udacity-MLND-dog_app
